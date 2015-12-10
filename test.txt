@@ -1,0 +1,7 @@
+user@test:~$ ls
+admin           Desktop    Music             software     WorkSpace
+apachewww       Documents  omnisocias-admin  Templates
+cd              Downloads  output.txt        Videos
+CopyFile.class  git        Pictures          vincentlian
+CopyFile.java   input.txt  Public            we-connect
+user@test:~$ 
